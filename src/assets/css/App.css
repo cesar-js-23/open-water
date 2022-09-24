@@ -1,0 +1,57 @@
+body{
+  background-color: #2F3544;
+}
+
+#root {
+  text-align: center;
+}
+
+.input-group {
+  width: 60%;
+}
+
+.card {
+  max-width: 60%;
+}
+
+.card-title{
+  position: absolute;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+.card-date {
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 90px;
+}
+
+.card-temp{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 240px;
+  font-size: 50px;
+}
+
+.card-desc{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 300px;
+}
+
+/* .ponerRe {
+  position: relative;
+} */
+
+.imgClass {
+  margin-top: 40px;
+}
+
+.classTitle {
+  margin-top: 50px;
+}
+
+/* .container-title {
+  margin-top: 60px;
+} */
+
